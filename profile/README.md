@@ -1,6 +1,6 @@
 # tapir.systems
 
-Skunkworks host for Dev Null SLU experiments.
+Skunkworks host for experiments.
 
 Owned by [Dev Null SLU](https://devnull.ad). Not a product marketing org.
 
